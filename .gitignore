@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+# Created by .ignore support plugin (hsz.mobi)
+/target
+.project
+.settings
+.classpath
+.springBeans
+gen-java
+local.config
+gen-proto
+.DS_Store
+/bin
+/physical_exam.iml
+/.idea
