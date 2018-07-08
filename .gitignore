@@ -14,3 +14,4 @@ gen-proto
 /bin
 /physical_exam.iml
 /.idea
+src/main/resources/
